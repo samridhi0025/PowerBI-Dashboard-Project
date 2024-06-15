@@ -35,10 +35,13 @@ Likely due to summer vacations, holidays, and special promotions.
 4. Order Value
 Most Ordered Size: Large pizzas, making up 45% of total orders
 Indicates a customer perception of better value for money.
-
+<br>
 <br>
 Conclusion
+<br>
 This project successfully transformed raw sales data into actionable insights, revealing key trends and patterns that can significantly impact business decisions. The analysis identified that Fridays and the month of July are peak sales periods, suggesting opportunities for targeted promotions and staffing adjustments. The popularity of Classic and Supreme pizzas, alongside the preference for large pizzas, highlights areas where marketing efforts can be concentrated.
-
+<br>
+<br>
 Author
+<br>
 Samridhi Sharma
