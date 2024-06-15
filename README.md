@@ -2,13 +2,13 @@
 This Power BI end to end Project
 Overview
 This project is a comprehensive analysis of pizza sales data using Power BI and SQL. The goal is to uncover valuable insights and trends to help optimize business operations and marketing strategies. The analysis includes identifying peak sales times, best and worst-selling pizzas, and average order values.
-
+<br>
 Data Source
 The data used for this analysis is sourced from a SQL database, ensuring accurate and reliable results. All insights have been cross-verified with the results obtained in SQL Server Management Studio (SSMS).
-
+<br>
 Project Structure
 The project consists of two primary Power BI dashboards:
-
+<br>
 Overall Pizza Sales Insights: This dashboard provides a detailed look at trends and patterns in pizza sales, including peak sales times, average order values, and customer preferences.
 Best/Worst Sellers: This dashboard focuses on the top and bottom-performing pizzas, offering insights into which pizzas are driving sales and which are underperforming.
 Key Insights
