@@ -41,7 +41,4 @@ Conclusion
 <br>
 This project successfully transformed raw sales data into actionable insights, revealing key trends and patterns that can significantly impact business decisions. The analysis identified that Fridays and the month of July are peak sales periods, suggesting opportunities for targeted promotions and staffing adjustments. The popularity of Classic and Supreme pizzas, alongside the preference for large pizzas, highlights areas where marketing efforts can be concentrated.
 <br>
-<br>
-Author
-<br>
-Samridhi Sharma
+
