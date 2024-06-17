@@ -13,7 +13,7 @@ The project consists of two primary Power BI dashboards:
 
 <br>
 Overall Pizza Sales Insights: This dashboard provides a detailed look at trends and patterns in pizza sales, including peak sales times, average order values, and customer preferences.
-Best/Worst Sellers: This dashboard focuses on the top and bottom-performing pizzas, offering insights into which pizzas are driving sales and which are underperforming.
+<br>Best/Worst Sellers: This dashboard focuses on the top and bottom-performing pizzas, offering insights into which pizzas are driving sales and which are underperforming.
 
 <br>
 Key Insights
