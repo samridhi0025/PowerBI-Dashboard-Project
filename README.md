@@ -1,5 +1,5 @@
 # PowerBI_Dashboard_Project
-This Power BI end to end Project
+
 Overview
 This project is a comprehensive analysis of pizza sales data using Power BI and SQL. The goal is to uncover valuable insights and trends to help optimize business operations and marketing strategies. The analysis includes identifying peak sales times, best and worst-selling pizzas, and average order values.
 
